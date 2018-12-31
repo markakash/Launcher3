@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2018 The Fred Project
 
 This program is free software: you can redistribute it and/or modify
@@ -18,7 +17,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <resources>
 
     <!-- QSB -->
-    <color name="qsb_drawer_text_color_normal">#ff212121</color>
+    <item type="id" name="hotseat_qsb_menu_item" />
+    <item type="id" name="drag_indicator" />
+    <item type="id" name="g_icon" />
+    <item type="id" name="mic_icon" />
 
 </resources>
-
